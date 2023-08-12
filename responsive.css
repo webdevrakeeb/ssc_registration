@@ -1,0 +1,32 @@
+@media screen and (max-width: 767px) {
+  
+.registration-form {
+  border: none;
+  margin-top: 0;
+}
+
+.registration-form form input[type=text],
+.registration-form form input[type=tel]{
+  width: 100%;
+}
+
+.registration-form form #stuPhnoe,
+.registration-form form #stuFphone,
+.registration-form form #upoZilla {
+  margin-left: 0;
+}
+
+.registration-form form input {
+  margin-bottom: 15px;
+}
+
+.registration-form form input[type=submit]{
+  margin-top: 25px;
+  width: 40%;
+}
+
+
+
+
+
+}
